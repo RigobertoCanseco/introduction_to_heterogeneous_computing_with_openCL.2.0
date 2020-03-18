@@ -1,0 +1,4 @@
+/home/regoeco/Documentos/introduction_to_heterogeneous_computing_with_openCL.2.0/opencl/OpenCL-ICD-Loader-master/build/test/platform/CMakeFiles/IcdLog.dir
+/home/regoeco/Documentos/introduction_to_heterogeneous_computing_with_openCL.2.0/opencl/OpenCL-ICD-Loader-master/build/CMakeFiles/OpenCL.dir
+/home/regoeco/Documentos/introduction_to_heterogeneous_computing_with_openCL.2.0/opencl/OpenCL-ICD-Loader-master/build/test/driver_stub/CMakeFiles/OpenCLDriverStub.dir
+/home/regoeco/Documentos/introduction_to_heterogeneous_computing_with_openCL.2.0/opencl/OpenCL-ICD-Loader-master/build/test/loader_test/CMakeFiles/icd_loader_test.dir

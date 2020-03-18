@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="c++" Database="c++.tags">
+  <Project Name="pila" Path="pila/pila.project" Active="Yes"/>
+  <Project Name="" Path="../../../../../.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="pila" ConfigName="Debug"/>
+      <Project Name="pila" ConfigName="Debug"/>
+      <Project Name="" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="pila" ConfigName="Release"/>
+      <Project Name="pila" ConfigName="Release"/>
+      <Project Name="" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,16 @@
+PASOS PARA INSTALAR OPENCL EN PROCESADOR AMD A8-6410 APU WITH AMD RADEON R5 GRAPHICS X4 A 64 BITS
+EN DEBIAN 8.2 (X86-64)
+1.- INSTALACION AMD APP SDK 3.0 DEL SITIO OFICIAL DE AMD 
+
+    1.1.- CHECKAR LOS REQUERIMIENTOS: System Requirements & Driver Compatibility
+    http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/system-requirements-driver-compatibility/
+    1.2.- DESCARGAR EL SDK 
+    http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/
+    AMD APP SDK 3.0 for 32-bit Linux
+    Version 	Size 	Launch Date 	OS 	Bitness 	Description
+    3.0         187 MB  3/23/2016       Linux       32-Bit
+	
+
+
+
+2.- 
